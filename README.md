@@ -10,7 +10,7 @@
 
 <!-- Short Intro with Icons -->
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/technology.png" alt="Technology Icon"/>
+  <img src="https://i.ibb.co.com/LzY3b8d/tailwind.jpg" alt="Technology Icon"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon"/>
   <br/>
