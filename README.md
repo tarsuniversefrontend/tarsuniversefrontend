@@ -10,9 +10,13 @@
 
 <!-- Short Intro with Icons -->
 <p align="center">
-  <img src="https://i.ibb.co.com/LzY3b8d/tailwind.jpg" alt="Technology Icon"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon"/>
+<div align="center">
+  <img src="https://i.ibb.co/LzY3b8d/tailwind.jpg" alt="Technology Icon" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Icon" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript Icon" width="48" height="48"/>
+</div>
+
+
   <br/>
   Innovating the World of Engineering & Technology with Cutting-Edge Frontend Solutions
 </p>
